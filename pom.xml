@@ -51,7 +51,7 @@
 
         <!--     Dependencies Version       -->
         <commons.io.version>2.7</commons.io.version>
-        <common.lang3.version>3.11</common.lang3.version>
+        <common.lang3.version>3.18.0</common.lang3.version>
         <junit-jupiter.version>5.1.0</junit-jupiter.version>
         <lombok.version>1.18.18</lombok.version>
         <junit.version>8</junit.version>
